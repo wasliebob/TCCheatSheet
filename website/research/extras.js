@@ -70,4 +70,16 @@ var research_extras = [
                 video: "",
                 description: ""
         },
+        
+                {
+                name: "Experience Extractor",
+                lore: "",
+                mod: "thaumcraft_extras",
+                aspects: [ "Victus", "Praecantatio", "Permutatio"],
+                requirements: [],
+                recipes: {},
+                nature: "When you have atleast 5 experience levels this device can convert it into item which can be traded.",
+                video: "",
+                description: ""
+        },
 ];
